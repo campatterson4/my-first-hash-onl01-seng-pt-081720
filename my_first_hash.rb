@@ -1,5 +1,5 @@
 def my_hash
- cam = {"my name" => "Camryn", 
+ cam = {"my name" => "Camryn", "my age"
 
   
 end
