@@ -1,12 +1,11 @@
 def my_hash
- cam = {"my name" => "Camryn", "my age" => "twenty one"}
-
+ your_hash = {"my name" => "Camryn", "my age" => 21}
   
 end
 
 
 def shipping_manifest
-  
+  the_manifest
 
 
 end
